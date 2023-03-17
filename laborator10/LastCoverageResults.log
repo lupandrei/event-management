@@ -1,0 +1,22 @@
+[2022-05-05 22:10:30] [info] Start Program:
+Path:"C:\Users\lupan\source\repos\laborator10\x64\Debug\laborator10.exe"
+Arguments:
+Working directory: "C:\Users\lupan\source\repos\laborator10\laborator10\"
+Modules: Selected: C:\Users\lupan\source\repos\laborator10\x64\Debug\laborator10.exe Excluded: 
+Sources: Selected: C:\Users\lupan\source\repos\laborator10\laborator10 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\lupan\AppData\Local\Temp\0bth52ca.qp2 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-05-05 22:10:30] [info] Module: C:\Users\lupan\source\repos\laborator10\x64\Debug\laborator10.exe is selected because it matches selected pattern: C:\Users\lupan\source\repos\laborator10\x64\Debug\laborator10.exe
+[2022-05-05 22:10:30] [info] ----------------------------------------------------
+[2022-05-05 22:10:30] [info] Coverage binary generated in file: C:\Users\lupan\AppData\Local\Temp\0bth52ca.qp2
+[2022-05-05 22:10:30] [info] ----------------------------------------------------
+[2022-05-05 22:10:30] [error] Your program stop with error code: -1073741515

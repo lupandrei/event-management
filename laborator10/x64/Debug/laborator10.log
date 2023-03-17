@@ -1,0 +1,3 @@
+﻿D:\visual studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(498,5): warning MSB8003: The VCToolsInstallDir property is not defined. Some build tools may not be found.
+  uic laborator10.ui
+C:\Users\lupan\AppData\Local\QtMsBuild\qt_globals.targets(293,5): error : [QtRunWork] Error starting process /uic: The system cannot find the file specified
